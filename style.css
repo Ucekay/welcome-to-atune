@@ -101,7 +101,7 @@ p{
 
 textarea{
   resize: none;
-	font-size: 4vw;
+	font-size: vw;
 }
 
 textarea:focus{
