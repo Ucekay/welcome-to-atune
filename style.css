@@ -82,6 +82,10 @@ p{
   text-align: center;
 }
 
+.intro{
+	width: 90%;
+	margin: auto;
+}
 
 .hero{
   display: inline-block;
