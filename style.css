@@ -27,7 +27,7 @@ body {
   text-align: center;
   line-height: 12vw;
   box-shadow: 2px 2px 5px 0 rgba(0, 0, 0, 0.5);
-  margin-top: 12vh;
+  margin-top: 11vh;
   margin-bottom: 0.5rem;
 }
 
@@ -43,7 +43,7 @@ body {
   text-align: center;
   line-height: 12vw;
   box-shadow: 2px 2px 5px 0 rgba(0, 0, 0, 0.5);
-  margin-top: 12vh;
+  margin-top: 11vh;
   margin-bottom: 0.5rem;
 }
 
@@ -59,7 +59,7 @@ body {
   text-align: center;
   line-height: 12vw;
   box-shadow: 2px 2px 5px 0 rgba(0, 0, 0, 0.5);
-  margin-bottom: 4rem;
+  margin-bottom: 5rem;
 }
 
 .title2-b{
@@ -74,11 +74,12 @@ body {
   text-align: center;
   line-height: 12vw;
   box-shadow: 2px 2px 5px 0 rgba(0, 0, 0, 0.5);
+  margin-bottom: 5rem;
 }
 
 p{
   line-height: 1.7;
-  font-size: 2.8rem;
+  font-size: 2.4rem;
   text-align: center;
 }
 
