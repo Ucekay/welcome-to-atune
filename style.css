@@ -96,7 +96,7 @@ p{
 
 textarea{
   resize: none;
-	font-size: 12vh;
+	font-size: 1vh;
 }
 
 textarea:focus{
@@ -116,7 +116,6 @@ textarea:focus{
   height: 15vw;
   text-align: center;
   line-height: 15vw;
-  font-size: 15vw:
 }
 
 .title{
