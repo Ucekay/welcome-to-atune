@@ -100,8 +100,8 @@ textarea{
 }
 
 textarea:focus{
-	border:2px solid transparent:
-	outline: 0;
+	border-color: #000;
+	outline: none;
 }
 
 .input{
