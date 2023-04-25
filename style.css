@@ -96,6 +96,12 @@ p{
 
 textarea{
   resize: none;
+	font-size: 12vh;
+}
+
+textarea:focus{
+	border:2px solid transparent:
+	outline: 0;
 }
 
 .input{
