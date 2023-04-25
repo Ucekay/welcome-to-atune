@@ -79,7 +79,7 @@ body {
 
 p{
   line-height: 1.7;
-  font-size: 2vw;
+  font-size: 4vw;
   text-align: center;
 }
 
@@ -101,11 +101,11 @@ p{
 
 textarea{
   resize: none;
-	font-size: 1vh;
+	font-size: 4vw;
 }
 
 textarea:focus{
-	border-color: #000;
+	border-color: red;
 	outline: none;
 }
 
